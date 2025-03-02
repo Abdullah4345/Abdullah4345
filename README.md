@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">I am a dedicated computer science student at Elsewedy University of Technology, specializing in networking and cybersecurity. My passion lies in understanding the intricate connections between systems, networks, and security protocols, ensuring safe and efficient digital environments. I am always eager to stay ahead in the rapidly evolving tech landscape, continually seeking out new knowledge and certifications to enhance my skills.</p>
+<p align="left">I am a computer science student at Elsewedy University of Technology, specializing in networking and cybersecurity. My passion lies in understanding the intricate connections between systems, networks, and security protocols, ensuring safe and efficient digital environments.
+You can find here some projects I made previously </p>
 
 ###
 
