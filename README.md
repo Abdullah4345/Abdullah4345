@@ -9,17 +9,15 @@
 You can find here some projects I made previously </p>
 <hr style="width: 100%; border: none; border-top: 2px solid black; margin: 0;">
 
-<p align="center">Profile views counter</p>
 
-###
+
+
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Abdullah4343/count.svg?"  />
+  <p style="display: inline-block; margin: 0;">Profile Views: </p>
+  <img src="https://profile-counter.glitch.me/Abdullah4343/count.svg?" style="display: inline-block; vertical-align: middle;" />
 </div>
-<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="17" />
 
 </div>
 
