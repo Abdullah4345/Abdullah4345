@@ -5,7 +5,7 @@
 </div>
 
 
-<p align="left">I am a computer science student at Elsewedy University of Technology, specializing in networking and cybersecurity. My passion lies in understanding the intricate connections between systems, networks, and security protocols, ensuring safe and efficient digital environments.
+<p align="left">I am a computer science student at Elsewedy University of Technology, specializing in networking and cybersecurity. My passion lies in EVERYTHING COMPUTER.
 You can find here some projects I made previously </p>
 <hr style="width: 100%; border: none; border-top: 2px solid black; margin: 0;">
 
