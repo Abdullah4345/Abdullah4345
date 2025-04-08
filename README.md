@@ -5,8 +5,6 @@
 </div>
 <h4 align="left">I am a computer science student at Elsewedy University of Technology, specializing in networking and cybersecurity. My passion lies in 𝓔𝓥𝓔𝓡𝓨𝓣𝓗𝓘𝓝𝓖 𝓒𝓞𝓜𝓟𝓤𝓣𝓔𝓡.
 </h4>
-<h5>You can find here some projects I made along the journey!</h5>
-
 <hr style="width: 100%; border: none; border-top: 2px solid black; margin: 0;">
 
 </div>
