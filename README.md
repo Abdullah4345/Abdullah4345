@@ -8,16 +8,6 @@
 <h5>You can find here some projects I made along the journey!</h5>
 <hr style="width: 100%; border: none; border-top: 2px solid black; margin: 0;">
 
-
-
-
-
-<div align="center">
-  <p style="display: inline-block; margin: 0;">Profile Views: </p>
-  <img src="https://profile-counter.glitch.me/Abdullah4343/count.svg?" style="display: inline-block; vertical-align: middle;" />
-</div>
-
-
 </div>
 
 
