@@ -1,7 +1,4 @@
-<img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" 
-     style="width: 100vw; height: 20px; object-fit: cover;" 
-     alt="JINX was here" />
-</div>
+
 <div style="width: 100vw; overflow: hidden;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm14MGd1OWNjaW52dHNjN2F3bDB4NTY0cTc1amxzZGo0eTAwNXB4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNwdldcbEY2jGwvv50/giphy.gif" 
        style="width: 100vw; height: 250px; object-fit: cover;" 
@@ -18,7 +15,3 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
 </div>
 <div style="width: 100vw; overflow: hidden;">
-<img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" 
-     style="width: 100vw; height: 20px; object-fit: cover;" 
-     alt="JINX was here" />
-</div>
